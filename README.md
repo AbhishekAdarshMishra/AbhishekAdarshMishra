@@ -9,7 +9,7 @@ My name is Abhishek Adarsh Mishra. Currently, I am a Software Engineer 1 (FullSt
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio Website](http://abhishekresume-a6620.web.app/)
 * ✉️  You can contact me at [abhishekmshr063@gmail.com](mailto:abhishekmshr063@gmail.com)
-* 🚀  I'm currently working as SDE 1 on [FACTSET] ([https://www.factset.com/])
+* 🚀  I'm currently working as SDE 2 on [FACTSET] ([https://www.factset.com/])
 * 🚀  Ex- SDE Intern at [FICO] ([http://www.fico.com/])
 
 ### Skills
