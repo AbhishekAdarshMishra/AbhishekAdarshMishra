@@ -4,7 +4,7 @@ Hi 👋 My name is Abhishek Adarsh Mishra
 Full Stack Developer
 --------------------
 
-My name is Abhishek Adarsh Mishra. Currently, I am a Software Engineer 1 (FullStack) at Factset . Ex - Software Engineer Intern (FrontEnd) at FICO and also completed a  B.tech degree in the Information Technology branch at Kalinga Institute of industrial technology 2022. Also I have some experience working on a few companies as an intern and freelancer and a 4-star competitive coder at CodeChef.
+My name is Abhishek Adarsh Mishra. Currently, I am a Software Engineer 2 (FullStack) at Factset . Ex - Software Engineer Intern (FrontEnd) at FICO and also completed a  B.tech degree in the Information Technology branch at Kalinga Institute of industrial technology 2022. Also I have some experience working on a few companies as an intern and freelancer and a 4-star competitive coder at CodeChef.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio Website](http://abhishekresume-a6620.web.app/)
