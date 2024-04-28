@@ -63,8 +63,10 @@ My name is Abhishek Adarsh Mishra. Currently, I am a Software Engineer 2 (FullSt
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/AbhishekAdarshMishra/SecurityAlarmSystem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=SecurityAlarmSystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhishekAdarshMishra/Appleyego" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=Appleyego&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/AbhishekAdarshMishra/KuoraCollegeCommunity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=KuoraCollegeCommunity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhishekAdarshMishra/Appleyego" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=Appleyego&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/AbhishekAdarshMishra/AngularMovieApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=AngularMovieApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhishekAdarshMishra/Amazon_Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekAdarshMishra&repo=Amazon_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
